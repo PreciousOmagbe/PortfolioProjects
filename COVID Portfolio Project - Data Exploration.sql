@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@PreciousOmagbe 
-AlexTheAnalyst
-/
-PortfolioProjects
-Public
-Code
-Issues
-4
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-PortfolioProjects/COVID Portfolio Project - Data Exploration.sql
-@AlexTheAnalyst
-AlexTheAnalyst Add files via upload
-Latest commit 0a45b67 on May 3, 2021
- History
- 1 contributor
-161 lines (114 sloc)  5 KB
-
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
